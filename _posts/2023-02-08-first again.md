@@ -1,10 +1,8 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "첫 게시글입니다"
 ---
 
-# Welcome
+# 반갑습니다
 
-**Hello world**, this is my first Jekyll blog post.
-
-I hope you like it!
+좋은 게시글을 올리겠습니다.
