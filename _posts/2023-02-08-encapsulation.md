@@ -1,6 +1,6 @@
 ---
 layout: single
-classes: wide
+<!-- classes: wide -->
 title:  "캡슐화 예제"
 ---
 
