@@ -8,9 +8,6 @@ sidebar:
 main:
   - title: "Quick-Start Guide"
     url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-    
-    
-    sidebar-sample:
   - title: "Parent Page A"
     children:
       - title: "Child Page A1"
@@ -33,6 +30,9 @@ main:
         url: /
       - title: "Child Page B5"
         url: /
+    
+    
+   
     
  # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
