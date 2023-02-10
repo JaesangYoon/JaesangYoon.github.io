@@ -1,44 +1,25 @@
----
-author_profile: true
-sidebar:
-  nav: "main"
----
-
-# main links
-main:
-  - title: "Quick-Start Guide"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-  - title: "Parent Page A"
+docs:
+  - title: Database
     children:
-      - title: "Child Page A1"
-        url: /
-      - title: "Child Page A2"
-        url: /
-      - title: "Child Page A3"
-        url: /
-      - title: "Child Page A4"
-        url: /
-  - title: "Parent Page B"
+      - title: "Oracle"
+        url: oracle/
+        category: "oracle"
+      - title: "MS-SQL"
+        url: mssql/
+        category: "mssql"
+      - title: "MariaDB"
+        url: mariadb/
+        category: "mariadb"
+  - title: Server
     children:
-      - title: "Child Page B1"
-        url: /
-      - title: "Child Page B2"
-        url: /
-      - title: "Child Page B3"
-        url: /
-      - title: "Child Page B4"
-        url: /
-      - title: "Child Page B5"
-        url: /
-    
-    
-   
-    
- # - title: "About"
-  #   url: https://mmistakes.github.io/minimal-mistakes/about/
- # - title: "Sample Posts"
-  #  url: /year-archive/
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
-  # - title: "Sitemap"
-  #   url: /sitemap/
+      - title: "Ubuntu"
+        url: ubuntu/
+        category: "ubuntu"
+      - title: "Windows Server"
+        url: windows-server/
+        category: "windows-server"
+  - title: Etc
+    children:
+      - title: "Jekyll"
+        url: jekyll/
+        category: "jekyll"
